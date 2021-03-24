@@ -1,7 +1,7 @@
 import {Arrays} from './images.mjs';
 
 // Fetching from server
-fetch('http://localhost:3000/api/v0/Arrays')
+fetch('/api/v0/images')
   .then(function(response){
     // JSON that is returned from the server must be converted to a JS object asynchronously.
     if (!response.ok) {

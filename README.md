@@ -96,6 +96,7 @@ https://images.pexels.com/photos/2587319/pexels-photo-2587319.jpeg?auto=compress
 
   MDN doc on fig caption
 
+  Vitaly and Dustin did a guided one on one helping me figure some connection troubleshooting and setting up singl page.
 
   stack overflow article on creating proper image sourcing
   https://stackoverflow.com/questions/49181790/getting-the-src-from-images-set-true-foreach-loop-with-the-src-from-the-model-as

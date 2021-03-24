@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <%- include('../partials/head') %>
+  </head>
+  <body>
+  <%- include('../partials/header') %>
+
+  <h1>Dynamic Image Gallery</h1>
+  <h2>It's so dynamic!</h2>
+  <main>
+    <div class = "gallery">
+      <figure class="card">
+        <img src="<%=image.pathURL%>" alt="<%=image.title%>"
+        width="<%=image.width%>" height="<%=image.height%>">
+        <figcaption>
+          <h2><%=image.description%></h2>
+        </figcaption>
+      </figure>
+
+    </div>
+  </main>
+
+  
+  <%- include('../partials/footer') %>
+
+</body>
+
+</html>

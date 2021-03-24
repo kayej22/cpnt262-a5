@@ -5,7 +5,7 @@ const images = [
   description: 'Hiking in the mountains',
   width: 1920,
   height: 1080, 
-  pathURL: './images/StockSnap_M1G6NWULHL.jpg',
+  pathURL: '/images/StockSnap_M1G6NWULHL.jpg',
   linkURL: 'https://en.wikipedia.org/wiki/Hiking',
   credit: 'Leeroy',
   creditURL: 'https://stocksnap.io/author/374'
@@ -17,7 +17,7 @@ const images = [
   description: 'A fallen leaf in snow',
   width: 1920,
   height: 1080, 
-  pathURL: './images/StockSnap_QFVTG5T37V.jpg',
+  pathURL: '/images/StockSnap_QFVTG5T37V.jpg',
   linkURL: 'https://en.wikipedia.org/wiki/Leaf',
   credit: 'Leeroy',
   creditURL: 'https://stocksnap.io/author/374'
@@ -29,7 +29,7 @@ const images = [
   description: 'Vibing with some headphones',
   width: 1920,
   height: 1080, 
-  pathURL: './images/StockSnap_DM8MFOGVFG.jpg',
+  pathURL: '/images/StockSnap_DM8MFOGVFG.jpg',
   linkURL: 'https://en.wikipedia.org/wiki/Headphones',
   credit: 'Leeroy',
   creditURL: 'https://stocksnap.io/author/374'
@@ -40,7 +40,7 @@ const images = [
   description: 'A cityscape',
   width: 1920,
   height: 1080, 
-  pathURL: './images/StockSnap_5CXNO08OHT.jpg',
+  pathURL: '/images/StockSnap_5CXNO08OHT.jpg',
   linkURL: 'https://en.wikipedia.org/wiki/Architecture',
   credit: 'Leeroy',
   creditURL: 'https://stocksnap.io/author/374'
@@ -52,7 +52,7 @@ const images = [
   description: 'A water taxi in the ocean',
   width: 1920,
   height: 1080, 
-  pathURL: './images/StockSnap_T56JW384MI.jpg',
+  pathURL: '/images/StockSnap_T56JW384MI.jpg',
   linkURL: 'https://en.wikipedia.org/wiki/Water_taxi',
   credit: 'Leeroy',
   creditURL: 'https://stocksnap.io/author/374'
@@ -64,7 +64,7 @@ const images = [
   description: 'Staring out at the distance',
   width: 1920,
   height: 1080, 
-  pathURL: './images/StockSnap_Q42LWDSRWX.jpg',
+  pathURL: '/images/StockSnap_Q42LWDSRWX.jpg',
   linkURL: 'https://en.wikipedia.org/wiki/Observation_deck',
   credit: 'Leeroy',
   creditURL: 'https://stocksnap.io/author/374'
@@ -76,7 +76,7 @@ const images = [
   description: 'The symbol of Canada',
   width: 1920,
   height: 1080, 
-  pathURL: './images/StockSnap_WUTL5UK6KU.jpg',
+  pathURL: '/images/StockSnap_WUTL5UK6KU.jpg',
   linkURL: 'https://en.wikipedia.org/wiki/Canada',
   credit: 'Leeroy',
   creditURL: 'https://stocksnap.io/author/374'
@@ -88,7 +88,7 @@ const images = [
   description: 'A scenic lake view',
   width: 1920,
   height: 1080, 
-  pathURL: './images/StockSnap_RGFJ3WZQI1.jpg',
+  pathURL: '/images/StockSnap_RGFJ3WZQI1.jpg',
   linkURL: 'https://en.wikipedia.org/wiki/Lake',
   credit: 'Leeroy',
   creditURL: 'https://stocksnap.io/author/374'
@@ -100,7 +100,7 @@ const images = [
     description: 'Satellite in the mist',
     width: 1920,
     height: 1080, 
-    pathURL: './images/StockSnap_9O135EFRB2.jpg',
+    pathURL: '/images/StockSnap_9O135EFRB2.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Satellite',
     credit: 'Leeroy',
     creditURL: 'https://stocksnap.io/author/374'
