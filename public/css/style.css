@@ -1,0 +1,71 @@
+:root {
+  --pic-width: 500px;
+  --pic-height: 500px;
+}
+body {
+  background: white 
+  
+}
+
+
+/* Navigation */
+
+nav.primary ul {
+  display: flex;
+}
+
+nav.primary li {
+  flex: auto;
+}
+nav.primary a {
+  display: block;
+  padding: .5rem 1rem;
+
+  text-decoration: none;
+  color: indigo;
+
+  border-radius: .3rem;
+
+  text-align: center;
+  font-variant: small-caps;
+  font-family: sans-serif;
+}
+
+nav.primary a:hover {
+  background-color: papayawhip;
+}
+
+nav.primary a:active {
+  background-color: indigo;
+  color: white;
+}
+nav ul {
+  list-style-type: none;
+}
+
+/* layout */
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 50vmin);
+
+  margin: 30px;
+  grid-gap: 1rem;
+  gap: 1rem;
+
+  justify-content: center;
+}
+
+
+
+/* Image control */
+img {
+  max-width: var(--pic-width);
+  max-height: var(--pic-height);
+  border-radius: 10px 10px 0 0;
+  object-fit: cover;
+  margin-top: 1rem;
+}
+
+
+

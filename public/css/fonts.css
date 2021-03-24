@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;700&display=swap');
+
+body {
+  font-family:'Cabin', sans-serif;
+  line-height: 1.2;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 20px;
+  text-align: center;
+  font-size: clamp(16px, 5vw, 24px);
+  max-width: 95ch;
+}
+
+
+h1, h3, h4, h5, h6 {
+  font-family:'Cabin', sans-serif;
+  font-weight: 700; 
+  line-height: 1.2px;
+  text-align: center;
+  font-size: clamp(32px, 5vw, 48px);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin: auto;
+  
+  
+}
+
+h2 {
+font-family:'Comic Sans MS', sans-serif;
+font-weight: 700; 
+line-height: 1.2px;
+text-align: center;
+font-size: clamp(16px, 5vw, 24px);
+padding-top: 30px;
+padding-bottom: 30px;
+margin: auto;
+
+}
