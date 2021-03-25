@@ -24,12 +24,12 @@ router.get('/images/:id', async(req, res, next) =>{
   }
 })
 
-// route handler to home page that renders another page
+// route handler to login page
 router.get('/login', (req, res) => {
   res.render('pages/login', {pageTitle:"Login"});
 })
 
-// route handler to home page that renders another page
+// route handler to resistration page
 router.get('/register', (req, res) => {
   res.render('pages/register', {pageTitle:"Register"});
 })
@@ -37,4 +37,5 @@ router.get('/register', (req, res) => {
 // api
 router.use('/api/v0/', api);
 
+// module export
 module.exports = router

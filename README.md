@@ -1,15 +1,26 @@
-# CPTN 262-a4
+# CPTN 262-a5
 Joel Kaye
 
 ## Github Repository
-  https://github.com/kayej22/cpnt262-a4
+  https://github.com/kayej22/cpnt262-a5
 
 ## Heroku Link
-   https://kayecpnt262-a4.herokuapp.com/
+   https://sait-wbdv-cpnt262-a5-joel.herokuapp.com/
+
+## MongoDB Connection String
+  MONGODB_URL=mongodb+srv://kayej22:zergmuffin88$@cluster0.10usi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
 
 ## General Notes
-  Tried to get the Dayjs module to function properly but just got stuck trying to make the module work. I can make the function string appear in the registry page but when I try to connect the module using require in the server it breaks my entire connection.
+  Assignment was refactured from the previous assignment. I went through and modified and cleaned up a great deal of this project.
+  
+  This assingment was pretty mind breaking for me at points. Vitaly helped out a great deal by giving me a one on one tutorial session to help guide me through the parts I was shaky on.
+
+  Aidan was also super helpful with advising on the single image route.
+
+  
+
+
 
 
 ## attributions
@@ -96,7 +107,11 @@ https://images.pexels.com/photos/2587319/pexels-photo-2587319.jpeg?auto=compress
 
   MDN doc on fig caption
 
-  Vitaly and Dustin did a guided one on one helping me figure some connection troubleshooting and setting up singl page.
+  Looooooooooooots of reviewing in class.
+
+  Vitaly and Dustin did a guided one on one helping me figure some connection troubleshooting and setting up single page.
+
+  Aidan reminded me of single page route
 
   stack overflow article on creating proper image sourcing
   https://stackoverflow.com/questions/49181790/getting-the-src-from-images-set-true-foreach-loop-with-the-src-from-the-model-as

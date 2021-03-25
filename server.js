@@ -29,7 +29,7 @@ app.use(express.static(path.join(__dirname,'public')))
 app.use('/', index)
 
 
-// 404 
+// 404 page
 app.use((req, res) => {
   res.status(404);
   res.sendFile(path.join(__dirname,'pages/error'));
