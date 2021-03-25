@@ -18,7 +18,7 @@ Joel Kaye
 
   Aidan was also super helpful with advising on the single image route.
 
-  
+  Little confused on my my Node modules appears in my Github repository, It's in my ignore file and appears as ignored in my file structure and VS code
 
 
 
